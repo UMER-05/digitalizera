@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a439eaae.css",
+    "main.js": "/static/js/main.e29ba62f.js",
+    "static/js/453.3b0df8f0.chunk.js": "/static/js/453.3b0df8f0.chunk.js",
+    "static/media/man.png": "/static/media/man.601e67969c3f84baf697.png",
+    "static/media/logo.png": "/static/media/logo.7e58692171238326cbc2.png",
+    "static/media/bg.jpg": "/static/media/bg.668ac5514c890f063eda.jpg",
+    "static/media/mountainlLeft.png": "/static/media/mountainlLeft.ac0862aeea32159dc418.png",
+    "static/media/clouds_2.png": "/static/media/clouds_2.42189f40a3bbaaa07322.png",
+    "static/media/spaceShip.png": "/static/media/spaceShip.d37339c0d9176e10aaeb.png",
+    "static/media/img-1.png": "/static/media/img-1.dffd06376caa2d0df623.png",
+    "static/media/network.png": "/static/media/network.a91ce83a5e76b896c2c6.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.c664b8daf06be1bdf3b9.png",
+    "static/media/target.png": "/static/media/target.af3fa86c28bb4dae91bb.png",
+    "static/media/search.png": "/static/media/search.e2b428396df5f4b54715.png",
+    "static/media/rocket.png": "/static/media/rocket.3f172cbb382f01d2cd07.png",
+    "static/media/instagram.png": "/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/graphicDesign.png": "/static/media/graphicDesign.3cef7c2850e802542dc5.png",
+    "index.html": "/index.html",
+    "main.a439eaae.css.map": "/static/css/main.a439eaae.css.map",
+    "main.e29ba62f.js.map": "/static/js/main.e29ba62f.js.map",
+    "453.3b0df8f0.chunk.js.map": "/static/js/453.3b0df8f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a439eaae.css",
+    "static/js/main.e29ba62f.js"
+  ]
+}
